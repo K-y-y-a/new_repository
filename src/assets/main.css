@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.my-style {
+    border: 1px solid #aaaaaa;
+}
+
+.my-list {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: 100%;
+    grid-gap: 5px;
+}
